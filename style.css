@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    color: rgb(243, 247, 246);
+    margin:70px ;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+a{
+    color: aliceblue;
+}
+
+ #btn{
+    background-color:red;
+    color: aliceblue;
+ }   
+h1,h2,h3{
+    color: red;
+}
